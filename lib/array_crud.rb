@@ -2,11 +2,12 @@ def create_an_empty_array
   []
 end
 
-def create_an_array  ["lil' bub", "grumpy cat", "Maru"]
+def create_an_array  
+  ["lil' bub", "grumpy cat", "Maru"]
 end
 
-def add_element_to_end_of_array(array, element)   ["lil' bub", "grumpy cat", "Maru"]
-  add_element_to_end_of_array << "nala cat"
+def add_element_to_end_of_array(array, element)   
+    array << "nala cat"
 end
 
 def add_element_to_start_of_array(array, element)  ["lil' bub", "grumpy cat", "Maru"]
