@@ -33,5 +33,5 @@ def retrieve_last_element_from_array(array) = ["lil' bub", "grumpy cat", "Maru"]
 end
 
 def update_element_from_index(array, index_number, element) = ["lil' bub", "grumpy cat", "Maru"]
-update_element_from_index [2] => "something else"
+update_element_from_index[2] => "something else"
 end
