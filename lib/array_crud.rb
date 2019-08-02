@@ -1,18 +1,18 @@
 def create_an_empty_array = []
 end
 
-def create_an_array = [1,2,3,4]
+def create_an_array = ["lil' bub", "grumpy cat", "Maru"]
 end
 
-def add_element_to_end_of_array(array, element)  = [1,2,3,4]
+def add_element_to_end_of_array(array, element)  = ["lil' bub", "grumpy cat", "Maru"]
   add_element_to_end_of_array << "nala cat"
 end
 
-def add_element_to_start_of_array(array, element)   = [1,2,3,4]
+def add_element_to_start_of_array(array, element)   = ["lil' bub", "grumpy cat", "Maru"]
   add_element_to_start_of_array.unshift("nala cat")
 end
 
-def remove_element_from_end_of_array(array)   = [1,2,3,4]
+def remove_element_from_end_of_array(array)   = ["lil' bub", "grumpy cat", "Maru"]
   remove_element_from_end_of_array(array).pop[-1]
 end
 
