@@ -20,18 +20,18 @@ def remove_element_from_start_of_array(array)  = ["lil' bub", "grumpy cat", "Mar
   lil_bub = remove_element_from_start_of_array.shift
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(array, index_number) = ["lil' bub", "grumpy cat", "Maru"]
+  retrieve_element_from_index[0]
+end
+
+def retrieve_first_element_from_array(array) = ["lil' bub", "grumpy cat", "Maru"]
   
 end
 
-def retrieve_first_element_from_array(array)
+def retrieve_last_element_from_array(array) = ["lil' bub", "grumpy cat", "Maru"]
   
 end
 
-def retrieve_last_element_from_array(array)
-  
-end
-
-def update_element_from_index(array, index_number, element)
+def update_element_from_index(array, index_number, element) = ["lil' bub", "grumpy cat", "Maru"]
 
 end
