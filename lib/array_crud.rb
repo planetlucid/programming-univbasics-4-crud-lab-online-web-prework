@@ -16,7 +16,7 @@ def remove_element_from_end_of_array(array)   = [1,2,3,4]
   remove_element_from_end_of_array(array).pop[-1]
 end
 
-def remove_element_from_start_of_array(array)  = [1,2,3,4]
+def remove_element_from_start_of_array(array)  = ["lil' bub", "grumpy cat", "Maru"]
   remove_element_from_start_of_array(array).shift[0]
 end
 
